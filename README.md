@@ -6,7 +6,7 @@ Si a una buena estructura HTML le sumamos la potencialidad de CSS grid, pseudoel
 
 ![Muestra](/img/muestra.png)
 
-***El diseño original es de Mike Joyce, hace cosas geniales en [Swissted.](https://www.swissted.com/products/talking-heads-with-blondie-and-the-heartbreakers-1975)*** 
+***El diseño original es de Mike Joyce, hace cosas geniales en [Swissted.](https://www.swissted.com/)*** 
 
 ## Autor ✒️
 **Gabriel Feldman**
